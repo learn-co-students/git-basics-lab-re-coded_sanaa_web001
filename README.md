@@ -4,7 +4,7 @@
 
 - Understand how to complete labs on Learn
 - Apply what you've learned about Git version control
-- Initialize a new Git repository
+- Initialize a newcd Git repository
 - Stage and commit new content
 - Create a remote repository on GitHub
 - Connect the newly create local repository with the remote on GitHub
